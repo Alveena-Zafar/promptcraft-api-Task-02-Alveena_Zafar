@@ -181,6 +181,7 @@ All endpoints were tested using **Thunder Client** (VS Code extension).
 PromptCraft AI was designed and developed by Alveena Zafar as part of Task-02 of the DecodeLabs Full Stack Development Program (Batch 2026).
 Software Engineering Student — UET Taxila
 DecodeLabs Full Stack Internship — Batch 2026
+
 GitHub: https://github.com/Alveena-Zafar
 
 ---
